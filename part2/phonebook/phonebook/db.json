@@ -1,0 +1,19 @@
+{
+  "persons": [
+    {
+      "name": "daave",
+      "number": "32423",
+      "id": "Z8fTSmkNyNI"
+    },
+    {
+      "name": "",
+      "id": "s2Qbuevt5Ds"
+    },
+    {
+      "name": "da",
+      "number": "123",
+      "id": "Nd2_FFi6Es4"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
